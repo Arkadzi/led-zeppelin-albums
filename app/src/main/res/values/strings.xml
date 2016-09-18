@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Led Zeppelin Albums</string>
+    <string name="errorCheckNetwork">Please, check network connection</string>
+    <string name="imageTransition">cover_art</string>
+    <string name="currentTime">Current time</string>
+</resources>
